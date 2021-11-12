@@ -1,0 +1,4 @@
+2021-11-12 03:14:19,775 ERROR c.r.HelloWorldError [main] {}
+java.lang.NullPointerException: Sorry IllegalArgumentException!
+	at com.ranga.HelloWorldError.getData(HelloWorldError.java:21) ~[classes/:?]
+	at com.ranga.HelloWorldError.main(HelloWorldError.java:13) [classes/:?]
